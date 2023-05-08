@@ -1,1 +1,1 @@
-# Web Scraping - "Booking.com" Hotel Data
+# "Booking.com" Hotel Data Collection & Storage
